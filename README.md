@@ -27,7 +27,7 @@ Botium Toys must adhere to GDPR as it conducts business globally, including with
 
 PCI DSS is an international standard ensuring secure handling of credit card information. It applies to organizations that store, accept, process, and transmit credit card data.
 
-**anation:**  
+**Explanation:**  
 Botium Toys must follow PCI DSS standards due to its involvement in storing, accepting, processing, and transmitting credit card information.
 
 ### The Health Insurance Portability and Accountability Act (HIPAA)
