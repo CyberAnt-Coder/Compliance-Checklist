@@ -1,10 +1,10 @@
-<h1>Compliance-Checklist</h1>
+# Compliance-Checklist
 
-<h2>Description</h2>
-In this lab, we were given the task of evaluating various regulations and standards to determine their relevance to a fictional company, Botium Toys. We were then tasked with determining explaining why we should or should not adhere to each standard/regulation.
+## Description
+In this lab, I evaluated various regulations and standards to determine their relevance to a fictional company, Botium Toys. I then explained why we should or should not adhere to each standard/regulation.
 <br />
 
-<h1>Walk-through:</h1>
+# Walk-through:
 
 ## Compliance Checklist
 Write an X beside each standard/policy Botium Toys must adhere to, as well as an explanation why.
